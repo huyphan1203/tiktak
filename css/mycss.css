@@ -1,0 +1,98 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #dcd9d961;
+}
+.wrapper-hp{
+	background-color: #fff;
+    width: 1000px;
+    min-height: 842px;
+    margin: auto;
+    padding-top: 60px;
+}
+.top {
+    position: relative;
+    height: 270px;
+    border-bottom: 1px solid;
+}
+.mid {
+    padding: 25px;
+}
+.top_cv{
+    margin-left: 25px;
+    height: 150px;
+    background-color: #333333;
+    position: relative;
+}
+.avatar {
+    width: 20%;
+    border: 5px solid #ab9f85;
+    position: absolute;
+    top: -22.5px;
+    left: 10px;
+}
+.first-info {
+    position: absolute;
+    left: 270px;
+    top: 42px;
+    color: #fff;
+}
+.icon-top {
+    position: absolute;
+    right: 10px;
+    top: 43px;
+}
+.info-two {
+    position: relative;
+    width: 760px;
+    float: right;
+    top: 25px;
+    padding: 0 50px;
+}
+.info-detail {
+    font-weight: 500;
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+}
+.birthday {
+    position: absolute;
+    right: 185px;
+    top: 48px;
+    color: #fff;
+    font-weight: 500;
+}
+.aboutme {
+    border-bottom: 1px solid;
+}
+.cate {
+    border-bottom: 1px dashed #007bff;
+    padding: 15px 0;
+}
+.levelskill {
+    text-align: right;
+}
+.border-right {
+    border-right: 1px solid;
+}
+h4 {
+    color: #349672;
+}
+.namecompany {
+    text-align: right;
+    color: #82461c;
+}
+p.option_exp {
+    font-weight: 500;
+}
+.detail_exp {
+    margin-left: 25px;
+}
+p.khoa {
+    color: black;
+    font-weight: 500;
+    margin-bottom: 0; 
+}
+p.chuyennganh {
+    color: black;
+}
